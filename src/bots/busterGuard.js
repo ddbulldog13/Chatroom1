@@ -1,8 +1,8 @@
 
 export class BusterGuard {
   constructor() {
-    this.kangaroo = "🦘";
-    this.bulldog = "🐶";
+    this.kangaroo = "";
+    this.bulldog = "";
   }
 
   scanMessage(message) {
