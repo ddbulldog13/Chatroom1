@@ -1,4 +1,4 @@
-
+}
 {
   "name": "aicommunityhub-client",
   "version": "1.0.0",
@@ -13,9 +13,9 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.0.0",
-    "tailwindcss": "^3.4.3",
-    "postcss": "^8.4.38",
     "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.3",
     "vite": "^5.0.0"
   },
   "browserslist": [
@@ -23,6 +23,6 @@
     "not IE 11"
   ],
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   }
 }
